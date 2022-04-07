@@ -1,3 +1,4 @@
+<img src="https://images.techopedia.com/images/uploads/istock-1154231467.jpeg?w=800&h=0&mode=max&quality=70&scale=both" alt="img"/>
 <h1 align="center">Hi 👋, I'm Olubiyi Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
